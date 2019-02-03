@@ -6,3 +6,6 @@ There are two integer variables a and b. It is required to exchange the contents
 
 ## Task2
 There are two natural numbers a and b. Calculate the product of these numbers using only the operators: +, -, ==, !=, =
+
+## Task3
+There are two natural numbers a and b. Find the quotient and the remainder of the division without the use of operations % and /
