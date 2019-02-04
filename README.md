@@ -9,3 +9,6 @@ There are two natural numbers a and b. Calculate the product of these numbers us
 
 ## Task3
 There are two natural numbers a and b. Find the quotient and the remainder of the division without the use of operations % and /
+
+## Task4
+There are two natural numbers a nad b. Calculate the greatest common divisor.
