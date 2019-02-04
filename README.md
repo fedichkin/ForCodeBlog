@@ -12,3 +12,6 @@ There are two natural numbers a and b. Find the quotient and the remainder of th
 
 ## Task4
 There are two natural numbers a nad b. Calculate the greatest common divisor.
+
+## Task5
+Print all simple numbers from 0 to natural number N.
