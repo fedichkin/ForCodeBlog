@@ -15,3 +15,6 @@ There are two natural numbers a nad b. Calculate the greatest common divisor.
 
 ## Task5
 Print all simple numbers from 0 to natural number N.
+
+## Task6
+There a number n > 1. Determine the decimal period 1/n 
