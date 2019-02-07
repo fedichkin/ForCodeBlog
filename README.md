@@ -17,4 +17,7 @@ There are two natural numbers a nad b. Calculate the greatest common divisor.
 Print all simple numbers from 0 to natural number N.
 
 ## Task6
-There a number n > 1. Determine the decimal period 1/n 
+There a number n > 1. Determine the decimal period 1/n
+
+## Task7
+Decomposed into prime factors of the number n > 1 
